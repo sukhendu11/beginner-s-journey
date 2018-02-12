@@ -1,2 +1,2 @@
 # beginner-s-journey
-Hello. I am practicing python and trying to contribute also on github.
+It is my first project exercise in Python programming.
